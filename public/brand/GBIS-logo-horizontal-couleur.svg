@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2050" height="520" viewBox="0 0 2050 520">
+  <g id="embleme">
+    <rect x="30" y="30" width="450" height="450" rx="78" fill="#102F50"/>
+    <g stroke="#20C96B" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M135 245 L225 170 L320 205 L405 105"/><path d="M225 170 L225 90"/><path d="M320 205 L385 275"/>
+    </g>
+    <g fill="#20C96B">
+      <circle cx="135" cy="245" r="24"/><circle cx="225" cy="170" r="27"/><circle cx="320" cy="205" r="25"/><circle cx="405" cy="105" r="28"/><circle cx="225" cy="90" r="18"/><circle cx="385" cy="275" r="20"/>
+    </g>
+    <text x="255" y="405" text-anchor="middle" fill="#FFFFFF" font-family="Montserrat,Arial,sans-serif" font-size="105" font-weight="800" letter-spacing="6">GBIS</text>
+  </g>
+  <g id="signature" font-family="Montserrat,Arial,sans-serif">
+    <text x="545" y="185" fill="#102F50" font-size="78" font-weight="800" letter-spacing="1">GUINEA BUSINESS</text>
+    <text x="545" y="275" fill="#102F50" font-size="78" font-weight="800" letter-spacing="1">INNOVATION SOLUTIONS</text>
+    <text x="550" y="350" fill="#20C96B" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="500">Des solutions intelligentes pour les entreprises africaines.</text>
+  </g>
+</svg>

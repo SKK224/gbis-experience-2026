@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect x="32" y="32" width="960" height="960" rx="180" fill="#102F50"/>
+  <g stroke="#20C96B" stroke-width="38" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M235 490 L425 330 L625 405 L805 195"/><path d="M425 330 L425 160"/><path d="M625 405 L760 550"/>
+  </g>
+  <g fill="#20C96B">
+    <circle cx="235" cy="490" r="50"/><circle cx="425" cy="330" r="56"/><circle cx="625" cy="405" r="52"/><circle cx="805" cy="195" r="58"/><circle cx="425" cy="160" r="38"/><circle cx="760" cy="550" r="42"/>
+  </g>
+  <text x="512" y="830" text-anchor="middle" fill="#FFFFFF" font-family="Montserrat,Arial,sans-serif" font-size="225" font-weight="800" letter-spacing="15">GBIS</text>
+</svg>
